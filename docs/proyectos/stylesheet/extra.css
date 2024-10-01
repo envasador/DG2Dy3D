@@ -25,6 +25,10 @@ a:hover{
     --md-typeset-a-color: #FFE4E9;
 }
 
+header{
+    background: rgb(87,213,141);
+    background: linear-gradient(90deg, rgba(87,213,141,1) 0%, rgba(189,121,236,1) 100%);
+}
 
 
 /* Home */
