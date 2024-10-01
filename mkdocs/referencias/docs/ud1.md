@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-### **1. Introducción al Arte Conceptual**
+### **1. Introducción al Arte Conceptual.**
 
 #### **¿Qué es el Arte Conceptual?**
 El arte conceptual es una disciplina visual que se enfoca en la generación y desarrollo de ideas para la creación de personajes, escenarios, objetos y elementos visuales que conforman un videojuego. Su objetivo principal es establecer una base visual clara y coherente que guíe al equipo de desarrollo durante todo el proceso de producción.
