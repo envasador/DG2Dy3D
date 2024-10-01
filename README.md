@@ -1,4 +1,4 @@
-# Lenguajes de Marcas
+# Diseño Gráfico 2D y 3D
 
 <section>
 <p>
@@ -16,7 +16,7 @@ Material didáctico del módulo Diseño Gráfico 2D y 3D del CE Desarrollo de Vi
 
 ## Referencias
 
-- [Referencias del curso](https://envasador.github.io/DG2Dy3D/docs/referencias)
+- [Referencias del curso](https://envasador.github.io/DG2Dy3D)
 
 ## Proyectos
-- [Proyectos del curso](https://envasador.github.io/DG2Dy3D/docs/proyectos)
+- [Proyectos del curso](https://envasador.github.io/DG2Dy3D)
