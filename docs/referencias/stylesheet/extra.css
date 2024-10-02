@@ -16,19 +16,21 @@ a:hover{
 }
 
 [data-md-color-scheme="daw-style"] {
-    --md-primary-fg-color:        #564256;
-    --md-primary-fg-color--light: #564256;
-    --md-primary-fg-color--dark:  #564256;
+    --md-primary-fg-color:        rgb(87,213,141);
+    --md-primary-fg-color--light: rgb(87,213,141);
+    --md-primary-fg-color--dark:  rgb(87,213,141);
 }
 
 [data-md-color-scheme="slate"] {
-    --md-typeset-a-color: #FFE4E9;
+    --md-typeset-a-color: #FFF;
 }
-body[data-md-color-scheme="daw-style"] header, body[data-md-color-scheme="daw-style"]nav{
+
+/*
+header, nav{
     background: rgb(87,213,141);
     background: linear-gradient(90deg, rgba(87,213,141,1) 0%, rgba(189,121,236,1) 100%);
 }
-
+*/
 
 
 /* Home */
