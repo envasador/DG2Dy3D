@@ -285,6 +285,7 @@ Incorporar una perspectiva de género en el diseño artístico no solo promueve 
     - **YouTube**: Canales como *FZD School* y *Proko* brindan tutoriales gratuitos y consejos prácticos.
 
 - **Software Recomendado**
+    - **Affinity Designer y Photo**: Herramientas para el tratamiento digital de imágenes.
     - **Adobe Photoshop**: Herramienta estándar para pintura digital y diseño 2D.
     - **Blender**: Software gratuito para modelado 3D y texturizado.
     - **Procreate**: Aplicación de pintura digital popular entre artistas conceptuales.
