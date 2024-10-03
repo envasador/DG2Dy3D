@@ -4,7 +4,7 @@ hide:
 ---
 
 # Diseño Gráfico 2D y 3D
-![](assets/referencias.jpg)
+![](assets/web-warrior-sword-cathedral-creature-battle-armor-mask-candle-da.jpg)
 
 # ¡Bienvenidos al módulo de **Diseño Grágico 2D y 3D** del curso de especialización de **Desarrollo de Videojuegos y Realidad Virtual**!
 
