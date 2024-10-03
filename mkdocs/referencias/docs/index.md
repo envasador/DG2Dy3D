@@ -12,7 +12,7 @@ Este curso está diseñado para que adquieras las habilidades necesarias en el d
 
 ## Tabla de contenido
 
-* [Unidad 1: Introducción y Concept art](ud1.md)
+* [Unidad 1: Introducción al Concept Art y Desarrollo del proceso creativo](ud1.md)
 
 
 

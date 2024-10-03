@@ -3,174 +3,146 @@ hide:
   - navigation
 ---
 
-# **Introducción a HTML5**
+# 2. Arte 2D Aplicado a Videojuegos
 
-## **1. Historia de HTML y evolución hacia HTML5**
-   - **Origen de HTML (1990-1991)**: HTML (HyperText Markup Language) fue creado por Tim Berners-Lee, el padre de la World Wide Web. La primera versión fue muy básica, con un conjunto limitado de etiquetas que permitían estructurar contenido sencillo.
-   - **Evolución de HTML**: A lo largo de los años, HTML evolucionó para incluir nuevas funcionalidades como tablas, estilos, y formularios en HTML 3.2 y 4.01.
-   - **La necesidad de HTML5**:
-     - Con el auge de la web multimedia y las aplicaciones interactivas, HTML4 se quedó atrás.
-     - Se necesitaba un lenguaje estándar que soportara video, audio y gráficos sin necesidad de plugins como Flash.
-     - HTML5 fue desarrollado por el W3C e introducido en 2008, con la meta de crear una web más semántica, accesible y compatible con dispositivos móviles.
-   - **Características clave de HTML5**:
-     - Soporte multimedia nativo (audio y video).
-     - Nuevas APIs, como Canvas para gráficos 2D, Web Storage y Geolocation.
-     - Mayor énfasis en la semántica del contenido con nuevas etiquetas.
+## 2.1 Introducción al arte 2D aplicado a videojuegos
+Conoceremos los roles que podríamos desempeñar o especializarnos, así como las fases de producción relativas al departamento de arte.
 
-## **2. Estructura básica de un documento HTML5**
-   - **DOCTYPE**: El documento HTML5 comienza con `<!DOCTYPE html>`, que le indica al navegador que debe interpretar el documento como HTML5.
-   - **Etiquetas principales**:
-     - `<html>`: Elemento raíz que envuelve todo el contenido.
-     - `<head>`: Contiene metadatos sobre el documento (como el título, enlaces a hojas de estilo, meta descripciones, etc.).
-     - `<meta charset="UTF-8">`: Para definir la codificación de caracteres del documento (UTF-8 es el estándar recomendado).
-     - `<title>`: Define el título que se muestra en la pestaña del navegador.
-     - `<body>`: Contiene el contenido visible para el usuario (texto, imágenes, videos, etc.).
+- **Concept Art & Arte final** (Concept art, teoría del color, diseño de personajes y entornos…)
+- **Animación** (Principios de la animación, storyboard, rig de personajes…)
+- **VFXs** (Sistema de partículas, secuencias de imágenes o spritesheets animadas…)
+- **UI & UX** (Fundamentos del diseño, menús, botones. CTA, wireframes y flowcharts…)
 
-```html
-<!DOCTYPE html>
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Mi primer documento HTML5</title>
-    </head>
-    <body>
-        <h1>¡Hola, Mundo!</h1>
-        <p>Este es un documento básico en HTML5.</p>
-    </body>
-    </html>
-```
+## 2.2 ¿Qué se espera de un o una artista 2D?
 
-## **3. Etiquetas básicas en HTML5**
+En este segundo punto vamos a ver, de forma general, los perfiles que pueden formar parte de un departamento de
+arte. 
+Entendemos como arte del juego todo lo que podemos ver y oír. Las representaciones gráficas de los personajes,
+efectos visuales,fondos, indicadores o medidores, botones...
 
-### **3.1. Etiquetas de encabezado y párrafo**
-  - **`<h1>` a `<h6>`**: Para definir títulos y subtítulos en el documento.
-    - `<h1>` es el nivel más importante y `<h6>` el menos importante.
-  - **`<p>`**: Para definir párrafos de texto.
+### Artista 2D
+Es la persona responsable de proveer al proyecto los archivos gráficos necesarios para el desarrollo del juego.
+Esto sería una definición. Lo cierto es que parece simple, pero no es lo único que se le requiere a cualquiera que
+aspire a artista 2D. Sólo hay que ir a una oferta de empleo y ver los requisitos y responsabilidades.
+Durante el curso iremos allanando el camino incorporando habilidades y conocimientos que nos acerquen a completar
+esas aptitudes para optar a un puesto o consolidarnos como artista de videojuegos.
+O si no fuese el caso, imagina lo valioso de tener habilidades y formación del desarrollo visual de un juego. Conocer la
+metodología y procesos del departamento de arte aún siendo parte de otra disciplina os ayudará, mínimo, en la
+gestión del equipo y en ser capaz de dar mayor soporte al mismo.
 
-### **3.2. Etiquetas de contenido en bloque y en línea**
-  - **Contenido en bloque**:
-    - `<div>`: Un contenedor genérico para contenido en bloque.
-    - `<section>`: Agrupa contenido temático relacionado.
-    - `<article>`: Para contenido independiente que podría ser reutilizado, como una publicación de blog.
-    - `<header>`, `<footer>`, `<nav>`: Partes estructurales de una página web.
-  - **Contenido en línea**:
-    - `<span>`: Un contenedor genérico para contenido en línea.
-    - `<a href="#">`: Enlaces que permiten la navegación entre páginas.
-    - **Etiquetas de estilo en línea**: `<strong>`, `<em>`, `<mark>`, `<code>` para marcar texto con importancia, énfasis, resaltado o código fuente.
+Son varias las **disciplinas** en las que, dentro de un departamento de arte, la persona crea o edita gráficos para
+el desarrollo correcto del proyecto.
+- **Artista videojuegos / Generalista 2D**. Desempeñará varios roles durante el proyecto 
+- **Concept artist** Se encargan de los primeros pasos para que la idea tome forma visual
+- **Texture artist** Crean y editan texturas para aplicarlos en personajes, entornos u objetos 
+- **Marketing artist** Utilizan arte del juego con el propósito de generar interés al público 
+- **UI artist** Desarrollan los gráficos y assets necesarios para maquetar menús e interfaz 
+- **VFXs artist** Crean y añaden efectos visuales a nuestro juego
+- **Animador 2D** Se encargan de las animaciones de personajes y distintos elementos del juego
 
-### **3.3. Listas**
-  - **Listas ordenadas** (`<ol>`) y no ordenadas (`<ul>`) con elementos de lista (`<li>`).
+Otros roles dentro del departamento de arte como pueden ser la dirección artística o leads de arte precisan
+conocimiento de gestión, administrar, motivar y organizar en la mejor medida a la plantilla y conocer sus deberes,
+demandas, tiempos de desarrollo…
 
-### **3.4. Imágenes y multimedia**
-  -  **`<img src="ruta" alt="descripción">`**: Inserta una imagen.
-  - **`<video>` y `<audio>`**: Etiquetas para incorporar multimedia nativa, sin necesidad de plugins.
-      - Ejemplo de video:
-```html
-    <video controls>
-        <source src="video.mp4" type="video/mp4">
-        Tu navegador no soporta la etiqueta video.
-    </video>
-```
+Se espera por tanto que las personas responsables, en cada rol, tengan conocimientos y sean suficientemente
+resolutivas en sus respectivas áreas y ser proactivas en caso de necesitar aprender y aplicar técnicas que no
+conocían o no se contemplaban en un inicio.
 
-### **3.5. Formularios**
-  - El uso de formularios es esencial para la interacción del usuario.
-    - **`<form>`**: Contenedor del formulario.
-    - **`<input type="text">`, `<input type="email">`, `<input type="submit">`**: Campos de entrada de datos.
-    - **`<label>`**: Para etiquetar los campos de entrada.
-```html
-  <form action="/submit" method="POST">
-      <label for="nombre">Nombre:</label>
-      <input type="text" id="nombre" name="nombre">
-      <input type="submit" value="Enviar">
-  </form>
-```
+Para cumplir objetivos: claridad, satisfacción y estilo.
 
-### **3.6. Tablas en HTML5**
-Las tablas permiten organizar datos en filas y columnas. Aunque no se recomienda para la maquetación de páginas, siguen siendo útiles para mostrar datos tabulares.
+- Claridad: Comunicar al jugador/a que está pasando exactamente en el juego y cómo orientarlos e
+informarles de qué sucede en cada segundo satisfactoriamente.
+- Satisfacción: Es dar una respuesta de reacción clara a las acciones del jugador.
+- Estilo: El aspecto visual característico del juego. Para conectar con el target es esencial conocerlo.
 
-  - **`<table>`**: Elemento contenedor de la tabla.
-  - **`<thead>`**: Agrupa el encabezado de la tabla.
-  - **`<tbody>`**: Agrupa el cuerpo de la tabla.
-  - **`<tr>`**: Define una fila en la tabla.
-  - **`<th>`**: Define una celda de encabezado (por defecto en negrita y centrada).
-  - **`<td>`**: Define una celda de datos en la tabla.
+### Metodología
 
-Ejemplo básico de tabla:
-```html
-   <table>
-       <thead>
-           <tr>
-               <th>Nombre</th>
-               <th>Edad</th>
-               <th>Ciudad</th>
-           </tr>
-       </thead>
-       <tbody>
-           <tr>
-               <td>Juan</td>
-               <td>25</td>
-               <td>Madrid</td>
-           </tr>
-           <tr>
-               <td>Ana</td>
-               <td>30</td>
-               <td>Barcelona</td>
-           </tr>
-       </tbody>
-   </table>
-```
+Lo abordaremos con videotutoriales y ejercicios prácticos para aprender las diferentes herramientas y aprendiendo fundamentos de diseño y arte básicos.
 
-- **Atributos importantes**:
-    - **`border`**: Define el grosor del borde de la tabla. (En HTML5 se recomienda usar CSS para manejar estilos).
-    - **`colspan`**: Hace que una celda se extienda por varias columnas.
-    - **`rowspan`**: Hace que una celda se extienda por varias filas.
+- **Fundamentos de Diseño y Arte**
+    - Teoría del color
+    - Proporciones
+    - Perspectiva
+    - Fundamentos de la animación…
 
-Ejemplo con **`colspan`** y **`rowspan`**:
-```html
-   <table border="1">
-       <thead>
-           <tr>
-               <th>Producto</th>
-               <th>Precio</th>
-               <th>Cantidad</th>
-           </tr>
-       </thead>
-       <tbody>
-           <tr>
-               <td>Manzanas</td>
-               <td>1.00€</td>
-               <td rowspan="2">10</td>
-           </tr>
-           <tr>
-               <td>Peras</td>
-               <td>1.50€</td>
-           </tr>
-           <tr>
-               <td colspan="2">Total</td>
-               <td>20€</td>
-           </tr>
-       </tbody>
-   </table>
-```
+- **Herramientas y Software**
+    - Photoshop
+    - Illustrator
+    - PixelEdit
+    - Spine
+    - Unity 3D…
 
-## **4. HTML5 Semántico: Un enfoque hacia la accesibilidad y SEO**
-  - La introducción de etiquetas semánticas en HTML5 mejora la accesibilidad para lectores de pantalla y optimiza el SEO.
-    - **`<article>`, `<section>`, `<aside>`, `<header>`, `<footer>`, `<nav>`**: Ayudan a estructurar mejor el contenido, proporcionando información clara sobre su función.
-  - **Beneficios de las etiquetas semánticas**:
-      - Mejoran la comprensión del contenido por parte de los motores de búsqueda.
-      - Facilitan la lectura del código por otros desarrolladores.
-      - Mejoran la accesibilidad para usuarios con discapacidades.
-
-## **Recursos complementarios**
-  - [Documentación oficial de HTML5 (MDN Web Docs)](https://developer.mozilla.org/es/docs/Web/HTML)
-  - [W3C HTML5 Specification](https://www.w3.org/TR/html5/)
-  - [HTML5 by Manz](https://lenguajehtml.com/html/)
-
-Ejemplos y ejercicios prácticos: Crear una página HTML básica que incluya un formulario de contacto, un artículo con imágenes y videos, y una lista de tareas.
-
-## Material de refuerzo y ampliación
-
-Se recomienda la realización de los siguientes cursos de la [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)  de freeCodeCamp.
+- **Proyectos Prácticos**
+    - Crear personajes
+    - Diseñar fondos
+    - Desarrollar interfaces
+    - Animar elementos
+    - Crear y añadir VFXs…
 
 
+
+# 1.2 ¿Qué se espera de un o una artista 2D?
+
+En este segundo punto vamos a ver, de forma general, los perfiles que pueden formar parte de un departamento de arte.
+
+Entendemos como arte del juego todo lo que podemos ver y oír: las representaciones gráficas de los personajes, efectos visuales, fondos, indicadores o medidores, botones, etc.
+
+## Artista 2D
+
+Es la persona responsable de proveer al proyecto los archivos gráficos necesarios para el desarrollo del juego. Esta sería una definición general, pero lo cierto es que parece simple. Sin embargo, no es lo único que se requiere para aspirar a ser un artista 2D. Solo hay que ir a una oferta de empleo y ver los requisitos y responsabilidades.
+
+Durante el curso iremos allanando el camino incorporando habilidades y conocimientos que nos acerquen a completar esas aptitudes necesarias para optar a un puesto o consolidarnos como artistas de videojuegos.
+
+Si no fuera el caso, imagina lo valioso que sería tener habilidades y formación en el desarrollo visual de un juego. Conocer la metodología y procesos del departamento de arte, aun siendo parte de otra disciplina, ayudará, al menos, en la gestión del equipo y en ser capaz de dar mayor soporte al mismo.
+
+### Disciplinas dentro del departamento de arte
+
+Son varias las disciplinas en las que, dentro de un departamento de arte, la persona crea o edita gráficos para el desarrollo correcto del proyecto:
+
+- **Artista de videojuegos / Generalista 2D**: Desempeñará varios roles durante el proyecto.
+- **Concept artist**: Se encarga de los primeros pasos para que la idea tome forma visual.
+- **Texture artist**: Crea y edita texturas para aplicarlas en personajes, entornos u objetos.
+- **Marketing artist**: Utiliza el arte del juego con el propósito de generar interés en el público.
+- **UI artist**: Desarrolla los gráficos y assets necesarios para maquetar menús e interfaz.
+- **VFX artist**: Crea y añade efectos visuales al juego.
+- **Animador 2D**: Se encarga de las animaciones de personajes y distintos elementos del juego.
+
+### Otros roles en el departamento de arte
+
+Existen otros roles dentro del departamento de arte, como la dirección artística o los leads de arte, que precisan conocimientos de gestión: administrar, motivar y organizar a la plantilla de la mejor manera posible, además de conocer los deberes, demandas y tiempos de desarrollo.
+
+#### Organigrama Básico del Departamento de Arte
+
+Dirección Artística
+│
+├── Concept Artists
+│   ├── Character Concept Artist
+│   ├── Prop Concept Artist
+│   └── Environment Concept Artist
+│
+├── 2D Artists (Arte Final)
+│
+├── Texture Artists
+│
+├── UI Artists
+│
+├── VFX Artists
+│
+├── Animadores 2D
+│
+├── Marketing Artists
+│
+├── Storyboard Artists
+│
+└── Technical Artists
+
+
+### Habilidades esperadas
+
+Se espera, por tanto, que las personas responsables en cada rol tengan conocimientos y sean suficientemente resolutivas en sus respectivas áreas. Además, se valora la proactividad en caso de necesitar aprender y aplicar técnicas que no conocían o no se contemplaban al inicio.
+
+Para cumplir con los objetivos de arte se deben tener en cuenta tres aspectos clave:
+
+- **Claridad**: Comunicar al jugador/a lo que está pasando exactamente en el juego y cómo orientarlo, informando de qué sucede en cada segundo de manera satisfactoria.
+- **Satisfacción**: Dar una respuesta clara a las acciones del jugador.
+- **Estilo**: El aspecto visual característico del juego, que debe conectar con el público objetivo. Es esencial conocerlo.
