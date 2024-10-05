@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Introducción al Concept Art y Desarrollo del proceso creativo
+# Unidad 1. Definición y desarrollo del proceso creativo del arte conceptual del videojuego.
 ![](assets/referencias.jpg)
 
 ## Tabla de contenido
