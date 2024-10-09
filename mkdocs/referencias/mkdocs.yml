@@ -6,7 +6,7 @@ site_dir: ../../docs/referencias
 nav:
   - Inicio: index.md
   - UT1: ud1.md
-  # - UT2: ud2.md
+  # - UT2: ud2-2-Flujo-de-Trabajo-Detallado-para-Crear-Concept-Art-de-un-personaje-en-Affinity-Designer.md
 
 extra:
   social:

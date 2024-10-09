@@ -3,8 +3,8 @@ hide:
   - navigation
 ---
 ### Tabla de contenido de la unidad
-* [1.1 Introducción y Concept Art](ud1-1.md)
-* [1.2 Desarrollo del proceso creativo](ud1-2.md)
+* [1 Introducción y Concept Art](ud1-1-Introduccion-al-Arte-Conceptual-en-Videjuegos.md)
+* [2 Desarrollo del proceso creativo](ud1-2-Desarrollo-del-Proceso-Creativo.md)
 ---
 # **2. Desarrollo del Proceso Creativo**
 ### **Etapas del Proceso Creativo**
@@ -221,71 +221,71 @@ El estilo artístico define la apariencia visual general de un videojuego y jueg
 #### **a) Tipos de Estilos Artísticos**
 
 - **Realismo**:
-  - **Descripción**: Representación fiel y detallada del mundo real.
-  - **Ventajas**: Alta inmersión y credibilidad.
-  - **Ejemplos**: *The Last of Us*, *Red Dead Redemption*.
+    - **Descripción**: Representación fiel y detallada del mundo real.
+    - **Ventajas**: Alta inmersión y credibilidad.
+    - **Ejemplos**: *The Last of Us*, *Red Dead Redemption*.
 
 - **Estilizado**:
-  - **Descripción**: Uso de formas, colores y proporciones no realistas para crear una apariencia única.
-  - **Ventajas**: Mayor flexibilidad creativa y distintividad visual.
-  - **Ejemplos**: *Fortnite*, *Borderlands*.
+    - **Descripción**: Uso de formas, colores y proporciones no realistas para crear una apariencia única.
+    - **Ventajas**: Mayor flexibilidad creativa y distintividad visual.
+    - **Ejemplos**: *Fortnite*, *Borderlands*.
 
 - **Pixel Art**:
-  - **Descripción**: Estilo retro que utiliza píxeles visibles para representar gráficos.
-  - **Ventajas**: Nostalgia y simplicidad.
-  - **Ejemplos**: *Celeste*, *Stardew Valley*.
+    - **Descripción**: Estilo retro que utiliza píxeles visibles para representar gráficos.
+    - **Ventajas**: Nostalgia y simplicidad.
+    - **Ejemplos**: *Celeste*, *Stardew Valley*.
 
 - **Cel Shading**:
-  - **Descripción**: Técnica que imita el estilo de los dibujos animados, con contornos definidos y colores planos.
-  - **Ventajas**: Apariencia gráfica distintiva y clara.
-  - **Ejemplos**: *The Legend of Zelda: Breath of the Wild*, *Borderlands*.
+    - **Descripción**: Técnica que imita el estilo de los dibujos animados, con contornos definidos y colores planos.
+    - **Ventajas**: Apariencia gráfica distintiva y clara.
+    - **Ejemplos**: *The Legend of Zelda: Breath of the Wild*, *Borderlands*.
 
 - **Minimalista**:
-  - **Descripción**: Uso de elementos simples y reducidos para crear una estética limpia.
-  - **Ventajas**: Claridad visual y enfoque en la jugabilidad.
-  - **Ejemplos**: *Monument Valley*, *Journey*.
+    - **Descripción**: Uso de elementos simples y reducidos para crear una estética limpia.
+    - **Ventajas**: Claridad visual y enfoque en la jugabilidad.
+    - **Ejemplos**: *Monument Valley*, *Journey*.
 
 #### **b) Factores a Considerar al Elegir un Estilo Artístico**
 
 - **Narrativa y Tema**:
-  - **Coherencia**: El estilo debe complementar la historia y el mundo del juego.
-  - **Emociones**: Utilizar el estilo para evocar las emociones deseadas en el jugador.
+    - **Coherencia**: El estilo debe complementar la historia y el mundo del juego.
+    - **Emociones**: Utilizar el estilo para evocar las emociones deseadas en el jugador.
 
 - **Audiencia Objetivo**:
-  - **Preferencias**: Considerar los gustos y expectativas del público objetivo.
-  - **Accesibilidad**: Elegir un estilo que sea accesible y comprensible para la audiencia.
+    - **Preferencias**: Considerar los gustos y expectativas del público objetivo.
+    - **Accesibilidad**: Elegir un estilo que sea accesible y comprensible para la audiencia.
 
 - **Recursos y Capacidades del Equipo**:
-  - **Habilidades**: Aprovechar las fortalezas y habilidades del equipo de arte.
-  - **Tiempo y Presupuesto**: Evaluar el tiempo y los recursos disponibles para desarrollar el estilo elegido.
+    - **Habilidades**: Aprovechar las fortalezas y habilidades del equipo de arte.
+    - **Tiempo y Presupuesto**: Evaluar el tiempo y los recursos disponibles para desarrollar el estilo elegido.
 
 - **Plataforma y Rendimiento**:
-  - **Limitaciones Técnicas**: Adaptar el estilo a las capacidades técnicas de la plataforma de destino (PC, consolas, móviles).
-  - **Optimización**: Asegurar que el estilo no comprometa el rendimiento del juego.
+    - **Limitaciones Técnicas**: Adaptar el estilo a las capacidades técnicas de la plataforma de destino (PC, consolas, móviles).
+    - **Optimización**: Asegurar que el estilo no comprometa el rendimiento del juego.
 
 #### **c) Adaptación y Evolución del Estilo Artístico**
 
 - **Iteración y Feedback**:
-  - **Prototipado**: Crear prototipos visuales para evaluar el estilo y recibir feedback.
-  - **Ajustes Continuos**: Estar dispuesto a ajustar y refinar el estilo según las necesidades del proyecto y las opiniones recibidas.
+    - **Prototipado**: Crear prototipos visuales para evaluar el estilo y recibir feedback.
+    - **Ajustes Continuos**: Estar dispuesto a ajustar y refinar el estilo según las necesidades del proyecto y las opiniones recibidas.
 
 - **Innovación y Originalidad**:
-  - **Exploración de Nuevas Técnicas**: Experimentar con nuevas herramientas y métodos para desarrollar un estilo único.
-  - **Fusión de Estilos**: Combinar diferentes estilos artísticos para crear una apariencia distintiva.
+    - **Exploración de Nuevas Técnicas**: Experimentar con nuevas herramientas y métodos para desarrollar un estilo único.
+    - **Fusión de Estilos**: Combinar diferentes estilos artísticos para crear una apariencia distintiva.
 
 #### **d) Ejemplos de Estilos Artísticos Exitosos en Videojuegos**
 
 - **"Hollow Knight"**:
-  - **Estilo**: Dibujos a mano con una paleta de colores oscura y detallada.
-  - **Impacto**: Creó una atmósfera inmersiva y una identidad visual única.
+    - **Estilo**: Dibujos a mano con una paleta de colores oscura y detallada.
+    - **Impacto**: Creó una atmósfera inmersiva y una identidad visual única.
 
 - **"Cuphead"**:
-  - **Estilo**: Inspirado en la animación de los años 30, con líneas gruesas y colores vibrantes.
-  - **Impacto**: Ofrece una experiencia visual nostálgica y artística.
+    - **Estilo**: Inspirado en la animación de los años 30, con líneas gruesas y colores vibrantes.
+    - **Impacto**: Ofrece una experiencia visual nostálgica y artística.
 
 - **"Ori and the Blind Forest"**:
-  - **Estilo**: Pintura digital con iluminación suave y colores brillantes.
-  - **Impacto**: Proporciona una sensación de maravilla y belleza natural.
+    - **Estilo**: Pintura digital con iluminación suave y colores brillantes.
+    - **Impacto**: Proporciona una sensación de maravilla y belleza natural.
 
 ---
 
