@@ -8,6 +8,7 @@ hide:
   ](ud1-2-Desarrollo-del-Proceso-Creativo.md)
 * [3. Anatomía](ud2-3-Anatomia.md)
 ---
+
 # 3. **Anatomía y Creación de Personajes para Videojuegos**
 
 ## Objetivos:

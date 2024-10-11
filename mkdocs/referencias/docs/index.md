@@ -13,7 +13,7 @@ Este curso está diseñado para que adquieras las habilidades necesarias en el d
 ## Tabla de contenido
 
 * [Unidad 1: Definición y desarrollo del proceso creativo del arte conceptual del videojuego](ud1.md)
-* [Unidad 2: Aplicación de los conceptos de ilustración digital y diseño gráfico]()
+* [Unidad 2: Aplicación de los conceptos de ilustración digital y diseño gráfico](ud2.md)
 
 
 ## Referencias web generales

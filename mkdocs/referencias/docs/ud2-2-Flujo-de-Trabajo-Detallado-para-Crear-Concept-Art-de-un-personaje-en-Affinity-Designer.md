@@ -3,15 +3,14 @@ hide:
   - navigation
 ---
 ### Tabla de contenido
+
 * [1 Affinity Designer para Concept Art en Videojuegos](ud2-1-Funcionalidades-y-Entorno-de-Trabajo-en-Affinity-Designer.md)
 * [2. Flujo de Trabajo Detallado para Crear Concept Art de un personaje en Affinity Designer
   ](ud1-2-Desarrollo-del-Proceso-Creativo.md)
 * [3. Anatomía](ud2-3-Anatomia.md)
----
 
 # 2. Flujo de Trabajo Detallado para Crear Concept Art de un personaje en Affinity Designer
-
-## **1. Boceto Inicial (Persona Vectorial)**
+## **2.1 Boceto Inicial (Persona Vectorial)**
 
 **Objetivo:** Crear la estructura básica de Kirby utilizando formas geométricas simples.
 
