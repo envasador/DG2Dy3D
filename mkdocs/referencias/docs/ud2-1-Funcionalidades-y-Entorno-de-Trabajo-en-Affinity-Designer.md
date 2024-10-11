@@ -106,31 +106,31 @@ Aunque Affinity Designer no está diseñado específicamente para la creación d
 ### Flujo de Trabajo Detallado para Crear Concept Art de Kirby en Affinity Designer
 
 1. **Boceto Inicial** (Persona Vectorial):
-   - **Crear Formas Básicas**: Utiliza la herramienta de elipse para dibujar la forma básica del cuerpo de Kirby. Añade círculos para los pies y óvalos para los ojos, colocando cada elemento en capas separadas para facilitar modificaciones futuras.
-   - **Organización de Capas**: Crea capas individuales para cada parte del personaje (cuerpo, pies, ojos) y nómbralas claramente (por ejemplo, "Cuerpo", "Pie Izquierdo", "Pie Derecho", "Ojos").
+    - **Crear Formas Básicas**: Utiliza la herramienta de elipse para dibujar la forma básica del cuerpo de Kirby. Añade círculos para los pies y óvalos para los ojos, colocando cada elemento en capas separadas para facilitar modificaciones futuras.
+    - **Organización de Capas**: Crea capas individuales para cada parte del personaje (cuerpo, pies, ojos) y nómbralas claramente (por ejemplo, "Cuerpo", "Pie Izquierdo", "Pie Derecho", "Ojos").
 
 2. **Ajustes y Refinamiento**:
-   - **Refinar Formas**: Utiliza la herramienta de **Pluma** para ajustar los nodos y suavizar las curvas del cuerpo y los pies. Asegúrate de que las transiciones entre las diferentes partes sean fluidas y naturales.
-   - **Añadir Detalles**: Dibuja detalles adicionales como las cejas, las mejillas rosadas y cualquier otro elemento característico de Kirby. Usa la herramienta de **Nodos** para modificar puntos específicos y perfeccionar las formas.
+    - **Refinar Formas**: Utiliza la herramienta de **Pluma** para ajustar los nodos y suavizar las curvas del cuerpo y los pies. Asegúrate de que las transiciones entre las diferentes partes sean fluidas y naturales.
+    - **Añadir Detalles**: Dibuja detalles adicionales como las cejas, las mejillas rosadas y cualquier otro elemento característico de Kirby. Usa la herramienta de **Nodos** para modificar puntos específicos y perfeccionar las formas.
 
 3. **Coloreado**:
-   - **Aplicar Colores Base**: Selecciona colores planos para cada parte del personaje. Por ejemplo, usa un rosa brillante para el cuerpo de Kirby y un negro para los ojos.
-   - **Degradados y Sombras**: Utiliza la herramienta de **Degradado** para añadir sombras y luces que den volumen al personaje. Crea una nueva capa vectorial o de píxeles para aplicar sombreados suaves que resalten las curvas y profundidad.
-   - **Detalles Rasterizados**: Si necesitas añadir texturas o efectos más detallados, cambia a la **Persona de Píxeles** y pinta directamente sobre el personaje para agregar detalles como brillos o sombras más orgánicas.
+    - **Aplicar Colores Base**: Selecciona colores planos para cada parte del personaje. Por ejemplo, usa un rosa brillante para el cuerpo de Kirby y un negro para los ojos.
+    - **Degradados y Sombras**: Utiliza la herramienta de **Degradado** para añadir sombras y luces que den volumen al personaje. Crea una nueva capa vectorial o de píxeles para aplicar sombreados suaves que resalten las curvas y profundidad.
+    - **Detalles Rasterizados**: Si necesitas añadir texturas o efectos más detallados, cambia a la **Persona de Píxeles** y pinta directamente sobre el personaje para agregar detalles como brillos o sombras más orgánicas.
 
 4. **Añadir Escenario**:
-   - **Diseñar el Fondo**: Crea un fondo sencillo que complemente a Kirby. Por ejemplo, dibuja colinas suaves, un cielo azul claro y algunos elementos decorativos como nubes o árboles estilizados.
-   - **Aplicar Perspectiva y Profundidad**: Utiliza diferentes tamaños y niveles de detalle para los elementos del fondo. Los objetos más cercanos a Kirby deben ser más grandes y detallados, mientras que los elementos lejanos pueden ser más pequeños y menos detallados, aplicando un ligero desenfoque para simular profundidad.
-   - **Uso de Máscaras de Capa**: Emplea máscaras de capa para ocultar o revelar partes del escenario sin eliminar permanentemente ningún elemento. Esto es útil para ajustar la visibilidad de ciertos elementos según sea necesario.
+    - **Diseñar el Fondo**: Crea un fondo sencillo que complemente a Kirby. Por ejemplo, dibuja colinas suaves, un cielo azul claro y algunos elementos decorativos como nubes o árboles estilizados.
+    - **Aplicar Perspectiva y Profundidad**: Utiliza diferentes tamaños y niveles de detalle para los elementos del fondo. Los objetos más cercanos a Kirby deben ser más grandes y detallados, mientras que los elementos lejanos pueden ser más pequeños y menos detallados, aplicando un ligero desenfoque para simular profundidad.
+    - **Uso de Máscaras de Capa**: Emplea máscaras de capa para ocultar o revelar partes del escenario sin eliminar permanentemente ningún elemento. Esto es útil para ajustar la visibilidad de ciertos elementos según sea necesario.
 
 5. **Detalles Finales y Revisión**:
-   - **Añadir Efectos de Iluminación**: Aplica efectos de luz globales, como brillos o resplandores, utilizando capas de ajuste y modos de fusión para integrar estos efectos de manera natural en el arte.
-   - **Revisión y Ajustes**: Revisa el diseño completo para asegurarte de que todos los elementos estén bien integrados y que el flujo visual guíe adecuadamente la atención hacia Kirby. Realiza ajustes en colores, sombras y posiciones de los elementos según sea necesario.
-   - **Optimización**: Asegúrate de que todas las capas estén bien organizadas y que el archivo esté optimizado para su uso final, ya sea para presentaciones, integración en motores de videojuegos o para la impresión.
+    - **Añadir Efectos de Iluminación**: Aplica efectos de luz globales, como brillos o resplandores, utilizando capas de ajuste y modos de fusión para integrar estos efectos de manera natural en el arte.
+    - **Revisión y Ajustes**: Revisa el diseño completo para asegurarte de que todos los elementos estén bien integrados y que el flujo visual guíe adecuadamente la atención hacia Kirby. Realiza ajustes en colores, sombras y posiciones de los elementos según sea necesario.
+    - **Optimización**: Asegúrate de que todas las capas estén bien organizadas y que el archivo esté optimizado para su uso final, ya sea para presentaciones, integración en motores de videojuegos o para la impresión.
 
 6. **Exportación**:
-   - **Formato Final**: Exporta el Concept Art en formato PNG con fondo transparente si planeas integrarlo en un motor de videojuegos, o en formato JPEG si es para una presentación o revisión.
-   - **Revisar Calidad**: Verifica que la calidad de la imagen exportada mantenga todos los detalles necesarios y que los colores se vean correctos en diferentes dispositivos o plataformas.
+    - **Formato Final**: Exporta el Concept Art en formato PNG con fondo transparente si planeas integrarlo en un motor de videojuegos, o en formato JPEG si es para una presentación o revisión.
+    - **Revisar Calidad**: Verifica que la calidad de la imagen exportada mantenga todos los detalles necesarios y que los colores se vean correctos en diferentes dispositivos o plataformas.
 
 ---
 
