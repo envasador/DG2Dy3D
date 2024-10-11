@@ -9,7 +9,10 @@ hide:
 ## Tabla de contenido
 
 * [1 Affinity Designer para Concept Art en Videojuegos](ud2-1-Funcionalidades-y-Entorno-de-Trabajo-en-Affinity-Designer.md)
-* [2 Desarrollo del proceso creativo](ud1-2-Desarrollo-del-Proceso-Creativo.md)
+* [2. Flujo de Trabajo Detallado para Crear Concept Art de un personaje en Affinity Designer
+  ](ud1-2-Desarrollo-del-Proceso-Creativo.md)
+* [3. Anatomía](ud2-3-Anatomia.md)
+
 
 ## Referencias web generales
 
