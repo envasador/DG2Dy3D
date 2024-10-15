@@ -8,7 +8,7 @@ hide:
 * [1 Introducción y Concept Art](ud1-1-Introduccion-al-Arte-Conceptual-en-Videjuegos.md)
 * [2 Desarrollo del proceso creativo](ud1-2-Desarrollo-del-Proceso-Creativo.md)
 ---
-# **1 Introducción al Arte Conceptual en Videjuegos.**
+# **1. Introducción al Arte Conceptual en Videjuegos.**
 
 El **arte conceptual** es una de las fases clave en el desarrollo de un videojuego. Se trata de la representación visual de ideas que aún no han sido formalmente diseñadas, con el objetivo de proporcionar una visión inicial sobre el estilo, la estética y los elementos gráficos del proyecto. El arte conceptual actúa como una guía visual para los artistas y diseñadores durante el desarrollo del videojuego.
 
