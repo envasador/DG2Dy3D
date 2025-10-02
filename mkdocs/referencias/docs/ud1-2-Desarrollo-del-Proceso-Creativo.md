@@ -753,6 +753,5 @@ Una vez elegido tu estilo:
 - **Pero permite flexibilidad**: Diferentes áreas del juego pueden tener variaciones dentro del estilo
 - **Prueba constantemente**: Lo que funciona en concepto puede no funcionar en el juego
 
----
 
 

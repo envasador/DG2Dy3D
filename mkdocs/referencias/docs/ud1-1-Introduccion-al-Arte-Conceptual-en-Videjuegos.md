@@ -201,4 +201,3 @@ Creación de concept art para el primer proyecto de Producción:
 - **Duración**: 1 hora.
 - **Materiales**: Figma y acceso a internet (o herramientas digitales como Pinterest).
 
----
