@@ -3,11 +3,6 @@ hide:
   - navigation
 ---
 
----
-hide:
-- navigation
----
-
 ### Tabla de contenido de la unidad
 
 * [1 Introducción y Concept Art](ud1-1-Introduccion-al-Arte-Conceptual-en-Videjuegos.md)

@@ -2,6 +2,7 @@
 hide:
   - navigation
 ---
+
 ### Tabla de contenido de la unidad
 * [1 Introducción y Concept Art](ud1-1-Introduccion-al-Arte-Conceptual-en-Videjuegos.md)
 * [2 Desarrollo del proceso creativo](ud1-2-Desarrollo-del-Proceso-Creativo.md)
@@ -57,9 +58,9 @@ Estos diseños finales son la biblia visual para el resto del equipo. Los modela
 
 Podrías pensar: "¿No es más libre trabajar sin estructura?" Pues no realmente. Este proceso te da:
 
-- **Organización**: Sabes en qué fase estás y qué sigue
-- **Colaboración fluida**: Todo el equipo habla el mismo idioma
-- **Calidad garantizada**: Las ideas maduran antes de convertirse en trabajo final
+* **Organización**: Sabes en qué fase estás y qué sigue
+* **Colaboración fluida**: Todo el equipo habla el mismo idioma
+* **Calidad garantizada**: Las ideas maduran antes de convertirse en trabajo final
 
 ---
 
@@ -70,9 +71,10 @@ Podrías pensar: "¿No es más libre trabajar sin estructura?" Pues no realmente
 Bocetar es pensar visualmente. Es ese momento donde tu mano traduce ideas abstractas en formas concretas.
 
 **¿Cómo se hace bien?**
-- Mantén las líneas sueltas, sin presionar demasiado el lápiz (o stylus)
-- Concéntrate en la silueta general: ¿se reconoce el personaje solo por su forma?
-- Olvídate de los detalles por ahora: pestañas, botones, texturas... todo eso viene después
+
+* Mantén las líneas sueltas, sin presionar demasiado el lápiz (o stylus)
+* Concéntrate en la silueta general: ¿se reconoce el personaje solo por su forma? 
+* Olvídate de los detalles por ahora: pestañas, botones, texturas... todo eso viene después
 
 Puedes bocetar a mano en papel (rápido, inmediato, sin distracciones) o digitalmente con programas como Photoshop, Procreate o Krita (fácil de editar, infinitas capas, ctrl+z es tu mejor amigo).
 
@@ -81,9 +83,10 @@ Puedes bocetar a mano en papel (rápido, inmediato, sin distracciones) o digital
 El color no solo "se ve bonito". El color cuenta historias. Un mundo en tonos fríos puede parecer hostil o melancólico. Los colores cálidos transmiten energía, peligro o confort.
 
 **Elementos a dominar:**
-- **Tu paleta de colores**: Elige una gama que refleje la atmósfera del juego. ¿Es un mundo apocalíptico? Piensa en marrones, grises, naranjas oxidados. ¿Es un juego infantil alegre? Colores saturados y brillantes.
-- **Teoría del color**: Aprende sobre armonías (colores que funcionan bien juntos), contraste (cómo hacer que algo destaque), temperatura (cálido vs. frío) y simbolismo (el rojo puede significar peligro, pasión o valentía según el contexto).
-- **Aplicación práctica**: Usa el color para guiar la mirada del jugador hacia lo importante, diferenciar facciones o personajes, crear sensación de profundidad.
+
+* **Tu paleta de colores**: Elige una gama que refleje la atmósfera del juego. ¿Es un mundo apocalíptico? Piensa en marrones, grises, naranjas oxidados. ¿Es un juego infantil alegre? Colores saturados y brillantes.
+* **Teoría del color**: Aprende sobre armonías (colores que funcionan bien juntos), contraste (cómo hacer que algo destaque), temperatura (cálido vs. frío) y simbolismo (el rojo puede significar peligro, pasión o valentía según el contexto).
+* **Aplicación práctica**: Usa el color para guiar la mirada del jugador hacia lo importante, diferenciar facciones o personajes, crear sensación de profundidad.
 
 ### **Todo se construye con formas básicas**
 
@@ -100,9 +103,10 @@ Lo importante es crear **siluetas claras**: si reduces tu diseño a una sombra n
 Los personajes son importantes, pero necesitan un lugar donde existir. Los escenarios no son solo "el fondo"; son parte activa de la narrativa.
 
 **¿En qué fijarte?**
-- **Composición**: ¿Cómo organizas los elementos para que la mirada fluya naturalmente? ¿Qué ven primero los jugadores?
-- **Profundidad**: Usa perspectiva, tamaños relativos y desenfoque atmosférico para crear sensación de espacio tridimensional
-- **Detalles narrativos**: Ese grafiti en la pared, esa maceta rota, esa luz parpadeante... cada detalle cuenta una pequeña historia
+
+* **Composición**: ¿Cómo organizas los elementos para que la mirada fluya naturalmente? ¿Qué ven primero los jugadores?
+* **Profundidad**: Usa perspectiva, tamaños relativos y desenfoque atmosférico para crear sensación de espacio tridimensional
+* **Detalles narrativos**: Ese grafiti en la pared, esa maceta rota, esa luz parpadeante... cada detalle cuenta una pequeña historia
 
 Además, piensa en la **interactividad**: ¿por dónde puede caminar el jugador? ¿Qué se puede tocar, romper o usar? El diseño debe invitar a la exploración.
 
@@ -110,9 +114,9 @@ Además, piensa en la **interactividad**: ¿por dónde puede caminar el jugador?
 
 Los efectos visuales son la diferencia entre una escena estática y una que respira.
 
-- **Atmosféricos**: Niebla que oculta el horizonte, humo saliendo de una chimenea, lluvia que cae, partículas flotando en el aire
-- **Luz y sombra**: Un rayo de luz atravesando una ventana polvorienta puede cambiar completamente la atmósfera
-- **Magia y tecnología**: Destellos de hechizos, chispas de circuitos, explosiones energéticas
+* **Atmosféricos**: Niebla que oculta el horizonte, humo saliendo de una chimenea, lluvia que cae, partículas flotando en el aire
+* **Luz y sombra**: Un rayo de luz atravesando una ventana polvorienta puede cambiar completamente la atmósfera
+* **Magia y tecnología**: Destellos de hechizos, chispas de circuitos, explosiones energéticas
 
 **Consejo profesional**: Trabaja con capas para organizar los efectos. Así puedes encenderlos y apagarlos, ajustar su intensidad o probar variaciones sin destruir el trabajo base.
 
@@ -121,14 +125,16 @@ Los efectos visuales son la diferencia entre una escena estática y una que resp
 La luz define todo: el mood, la hora del día, la atmósfera, incluso la emoción de una escena. Imagina el mismo personaje iluminado por un sol cálido vs. una luna fría. ¿Cambia cómo lo percibimos? Totalmente.
 
 **Aspectos clave:**
-- **Fuente de luz**: ¿De dónde viene? ¿Es el sol, una antorcha, una pantalla de ordenador?
-- **Dirección e intensidad**: Una luz lateral crea drama y textura. Una luz frontal aplana. Una luz desde abajo puede parecer terrorífica
-- **Color de la luz**: La luz dorada del atardecer transmite calidez o nostalgia. La luz azulada nocturna puede parecer misteriosa o fría
+
+* **Fuente de luz**: ¿De dónde viene? ¿Es el sol, una antorcha, una pantalla de ordenador?
+* **Dirección e intensidad**: Una luz lateral crea drama y textura. Una luz frontal aplana. Una luz desde abajo puede parecer terrorífica
+* **Color de la luz**: La luz dorada del atardecer transmite calidez o nostalgia. La luz azulada nocturna puede parecer misteriosa o fría
 
 **Técnicas útiles:**
-- **Contraluz**: Coloca la fuente de luz detrás del sujeto para crear siluetas dramáticas
-- **Luz difusa vs. direccional**: La primera crea sombras suaves; la segunda, sombras marcadas y contrastes fuertes
-- **Iluminación ambiental**: Esa luz base que afecta sutilmente toda la escena
+
+* **Contraluz**: Coloca la fuente de luz detrás del sujeto para crear siluetas dramáticas
+* **Luz difusa vs. direccional**: La primera crea sombras suaves; la segunda, sombras marcadas y contrastes fuertes
+* **Iluminación ambiental**: Esa luz base que afecta sutilmente toda la escena
 
 ---
 
@@ -152,37 +158,37 @@ Es fácil caer en clichés: la guerrera sexy en armadura de bikini, el héroe ma
 
 En el mundo real, las personas vienen en todas las formas, tamaños, colores y expresiones. ¿Por qué nuestros juegos serían diferentes?
 
-- **Tipos de cuerpo variados**: No todo el mundo es delgado y atlético
-- **Estilos diversos**: Diferentes formas de vestir, peinados, accesorios
-- **Roles equilibrados**: Mujeres líderes, hombres cuidadores, personajes no binarios en roles protagónicos
+* **Tipos de cuerpo variados**: No todo el mundo es delgado y atlético
+* **Estilos diversos**: Diferentes formas de vestir, peinados, accesorios
+* **Roles equilibrados**: Mujeres líderes, hombres cuidadores, personajes no binarios en roles protagónicos
 
 #### **Estrategias concretas**
 
 **1. Edúcate**
-- Aprende sobre identidades de género más allá del binario
-- Estudia ejemplos positivos: ¿Qué juegos lo están haciendo bien y por qué?
+* Aprende sobre identidades de género más allá del binario
+* Estudia ejemplos positivos: ¿Qué juegos lo están haciendo bien y por qué?
 
 **2. Trabaja en equipo diverso**
-- Diferentes perspectivas enriquecen el proceso creativo
-- El feedback de personas con experiencias variadas es invaluable
+* Diferentes perspectivas enriquecen el proceso creativo
+* El feedback de personas con experiencias variadas es invaluable
 
 **3. Diseña con inclusión en mente**
-- Ofrece opciones de personalización de personajes
-- Crea historias que reflejen diversas experiencias
-- Evita hacer del género un chiste o un estereotipo
+* Ofrece opciones de personalización de personajes
+* Crea historias que reflejen diversas experiencias
+* Evita hacer del género un chiste o un estereotipo
 
 **4. Revisa constantemente**
-- ¿Estoy cayendo en estereotipos sin darme cuenta?
-- ¿Hay balance en los roles que asigno?
-- ¿Mis personajes diversos son igual de desarrollados que los protagonistas?
+* ¿Estoy cayendo en estereotipos sin darme cuenta?
+* ¿Hay balance en los roles que asigno?
+* ¿Mis personajes diversos son igual de desarrollados que los protagonistas?
 
 ### **El impacto real**
 
 Cuando diseñas con perspectiva de género:
-- Amplías tu audiencia potencial
-- Creas personajes más memorables y complejos
-- Contribuyes a una industria más inclusiva
-- Desarrollas mejores habilidades como diseñador
+* Amplías tu audiencia potencial 
+* Creas personajes más memorables y complejos 
+* Contribuyes a una industria más inclusiva 
+* Desarrollas mejores habilidades como diseñador
 
 No se trata de "cuotas" o "agenda". Se trata de ser un mejor artista que crea mundos más interesantes.
 
@@ -201,10 +207,10 @@ Aquí tienes una guía completa de los estilos más comunes en la industria:
 Busca replicar el mundo real con la mayor fidelidad posible. Texturas detalladas, iluminación física precisa, proporciones anatómicas correctas.
 
 **Características clave:**
-- Alta fidelidad visual
-- Iluminación basada en física (PBR)
-- Texturas de alta resolución
-- Modelado anatómico preciso
+* Alta fidelidad visual 
+* Iluminación basada en física (PBR)
+* Texturas de alta resolución 
+* Modelado anatómico preciso
 
 **Ideal para**: Shooters, simuladores, juegos deportivos, títulos AAA
 
@@ -219,10 +225,10 @@ Busca replicar el mundo real con la mayor fidelidad posible. Texturas detalladas
 Toma elementos realistas pero los simplifica y exagera para crear una estética única. Es como ver la realidad a través de un filtro artístico.
 
 **Características clave:**
-- Proporciones ligeramente exageradas
-- Simplificación de detalles
-- Paletas de color expresivas
-- Balance entre realismo y expresión artística
+* Proporciones ligeramente exageradas 
+* Simplificación de detalles 
+* Paletas de color expresivas 
+* Balance entre realismo y expresión artística
 
 **Ideal para**: RPGs, aventuras, juegos de acción con personalidad
 
@@ -237,11 +243,11 @@ Toma elementos realistas pero los simplifica y exagera para crear una estética 
 Proporciones exageradas, expresiones amplificadas, colores vibrantes. El mundo visto con los ojos de la animación clásica.
 
 **Características clave:**
-- Proporciones no realistas (cabezas grandes, ojos expresivos)
-- Líneas de contorno marcadas
-- Colores saturados y brillantes
-- Expresiones faciales exageradas
-- Movimientos amplios y dinámicos
+* Proporciones no realistas (cabezas grandes, ojos expresivos)
+* Líneas de contorno marcadas 
+* Colores saturados y brillantes 
+* Expresiones faciales exageradas 
+* Movimientos amplios y dinámicos
 
 **Ideal para**: Plataformeros, juegos familiares, títulos casuales
 
@@ -256,10 +262,10 @@ Proporciones exageradas, expresiones amplificadas, colores vibrantes. El mundo v
 Modelos 3D renderizados con sombras planas y líneas de contorno, pareciendo dibujos animados 2D.
 
 **Características clave:**
-- Sombras en bloques de color sólido
-- Líneas de contorno negras
-- Ausencia de gradientes suaves
-- Aspecto de cómic o anime
+* Sombras en bloques de color sólido 
+* Líneas de contorno negras 
+* Ausencia de gradientes suaves 
+* Aspecto de cómic o anime
 
 **Ideal para**: JRPGs, aventuras estilizadas, juegos de anime
 
@@ -274,10 +280,10 @@ Modelos 3D renderizados con sombras planas y líneas de contorno, pareciendo dib
 Arte creado píxel a píxel, reminiscente de la era de 8 y 16 bits. Cada píxel es deliberado y tiene propósito.
 
 **Características clave:**
-- Resolución limitada intencionalmente
-- Paletas de color restringidas
-- Animaciones frame by frame
-- Claridad de lectura pese a la limitación
+* Resolución limitada intencionalmente 
+* Paletas de color restringidas 
+* Animaciones frame by frame 
+* Claridad de lectura pese a la limitación
 
 **Ideal para**: Indies, plataformeros, RPGs retro, roguelikes
 
@@ -292,10 +298,10 @@ Arte creado píxel a píxel, reminiscente de la era de 8 y 16 bits. Cada píxel 
 Modelos 3D con bajo número de polígonos, facetas visibles. Estética geométrica y limpia.
 
 **Características clave:**
-- Geometría simplificada
-- Facetas claramente visibles
-- Colores planos o texturas simples
-- Estética minimalista y limpia
+* Geometría simplificada 
+* Facetas claramente visibles 
+* Colores planos o texturas simples 
+* Estética minimalista y limpia
 
 **Ideal para**: Juegos indie, títulos móviles, experiencias contemplativas
 
@@ -310,14 +316,15 @@ Modelos 3D con bajo número de polígonos, facetas visibles. Estética geométri
 Texturas que parecen pintadas con pincel. Calidez, personalidad, sensación artesanal.
 
 **Características clave:**
-- Pinceladas visibles en texturas
-- Colores cálidos y orgánicos
-- Sin repetición mecánica
-- Sensación de obra de arte tangible
+* Pinceladas visibles en texturas 
+* Colores cálidos y orgánicos 
+* Sin repetición mecánica 
+* Sensación de obra de arte tangible
+
 
 **Ideal para**: Fantasía, aventuras narrativas, juegos contemplativos
 
-**Ejemplos**: *World of Warcraft*, *League of Legends*, *Hearthstone*, *Bastion*
+**Ejemplos**: *Gris* , *CupHead*
 
 **Consideraciones**: Cada asset requiere pintura manual. Proceso laborioso pero con resultados únicos.
 
@@ -328,10 +335,10 @@ Texturas que parecen pintadas con pincel. Calidez, personalidad, sensación arte
 Reducción extrema de elementos visuales. Solo lo esencial. Geometría simple, paletas limitadas.
 
 **Características clave:**
-- Interfaces limpias
-- Paletas de 2-4 colores
-- Geometría básica
-- Ausencia de texturas complejas
+* Interfaces limpias 
+* Paletas de 2-4 colores 
+* Geometría básica 
+* Ausencia de texturas complejas
 
 **Ideal para**: Puzzles, experiencias meditativas, juegos conceptuales
 
@@ -346,10 +353,10 @@ Reducción extrema de elementos visuales. Solo lo esencial. Geometría simple, p
 Como pixel art pero en tres dimensiones. Bloques cúbicos que forman estructuras.
 
 **Características clave:**
-- Construcción con cubos uniformes
-- Estética blocky pero tridimensional
-- Texturas pixeladas en caras de voxels
-- Facilita la destrucción y construcción procedural
+* Construcción con cubos uniformes 
+* Estética blocky pero tridimensional 
+* Texturas pixeladas en caras de voxels 
+* Facilita la destrucción y construcción procedural
 
 **Ideal para**: Sandbox, construcción, aventuras procedurales
 
@@ -364,10 +371,10 @@ Como pixel art pero en tres dimensiones. Bloques cúbicos que forman estructuras
 Paletas extremadamente limitadas o directamente blanco y negro. Alto contraste, sombras dramáticas.
 
 **Características clave:**
-- Ausencia o reducción extrema de color
-- Contraste alto
-- Sombras marcadas
-- Atmósfera dramática
+* Ausencia o reducción extrema de color
+* Contraste alto
+* Sombras marcadas 
+* Atmósfera dramática
 
 **Ideal para**: Narrativas oscuras, thrillers, experiencias artísticas
 
@@ -382,10 +389,10 @@ Paletas extremadamente limitadas o directamente blanco y negro. Alto contraste, 
 Estética oscura pero bella. Arquitectura gótica, criaturas sombrías, iluminación tenue con acentos dramáticos.
 
 **Características clave:**
-- Paletas oscuras con acentos de color
-- Arquitectura vertical y ornamentada
-- Criaturas y diseños inquietantes pero fascinantes
-- Contraste entre luz y sombra
+* Paletas oscuras con acentos de color 
+* Arquitectura vertical y ornamentada 
+* Criaturas y diseños inquietantes pero fascinantes 
+* Contraste entre luz y sombra
 
 **Ideal para**: Action RPGs oscuros, horror, soulslike
 
@@ -400,10 +407,10 @@ Estética oscura pero bella. Arquitectura gótica, criaturas sombrías, iluminac
 Futuro distópico de alta tecnología y baja calidad de vida. Neones brillantes, lluvia perpetua, megacorporaciones.
 
 **Características clave:**
-- Neones brillantes (azules, rosas, morados)
-- Contraste extremo de luz y sombra
-- Estética urbana degradada con alta tecnología
-- Lluvia, niebla, atmósfera húmeda
+* Neones brillantes (azules, rosas, morados)
+* Contraste extremo de luz y sombra 
+* Estética urbana degradada con alta tecnología 
+* Lluvia, niebla, atmósfera húmeda
 
 **Ideal para**: Shooters futuristas, RPGs sci-fi, aventuras cyberpunk
 
@@ -418,10 +425,10 @@ Futuro distópico de alta tecnología y baja calidad de vida. Neones brillantes,
 Tecnología victoriana alternativa. Vapor, latón, engranajes, aeronaves, estética retrofuturista.
 
 **Características clave:**
-- Paletas de marrones, cobres, dorados
-- Engranajes y maquinaria visible
-- Vestimenta victoriana con toques tecnológicos
-- Aeronaves y tecnología de vapor
+* Paletas de marrones, cobres, dorados 
+* Engranajes y maquinaria visible 
+* Vestimenta victoriana con toques tecnológicos 
+* Aeronaves y tecnología de vapor
 
 **Ideal para**: RPGs alternativos, aventuras steampunk, estrategia
 
@@ -436,10 +443,10 @@ Tecnología victoriana alternativa. Vapor, latón, engranajes, aeronaves, estét
 Elementos imposibles, perspectivas distorsionadas, lógica onírica. Inspirado en Dalí, Magritte, Escher.
 
 **Características clave:**
-- Perspectivas imposibles
-- Yuxtaposiciones extrañas
-- Elementos flotantes o distorsionados
-- Lógica de sueños
+* Perspectivas imposibles 
+* Yuxtaposiciones extrañas 
+* Elementos flotantes o distorsionados 
+* Lógica de sueños
 
 **Ideal para**: Puzzles, experiencias artísticas, aventuras psicodélicas
 
@@ -454,10 +461,10 @@ Elementos imposibles, perspectivas distorsionadas, lógica onírica. Inspirado e
 Diseñado para perturbar. Colores desaturados, diseños grotescos, iluminación opresiva.
 
 **Características clave:**
-- Paletas desaturadas o monocromáticas
-- Diseños orgánicos perturbadores
-- Iluminación tenue y amenazante
-- Texturas viscerales
+* Paletas desaturadas o monocromáticas 
+* Diseños orgánicos perturbadores 
+* Iluminación tenue y amenazante 
+* Texturas viscerales
 
 **Ideal para**: Horror survival, psychological horror
 
@@ -472,10 +479,10 @@ Diseñado para perturbar. Colores desaturados, diseños grotescos, iluminación 
 Fantasía clásica con dragones, magia, castillos y héroes. Colores saturados, diseños grandilocuentes, épica visual.
 
 **Características clave:**
-- Arquitectura monumental
-- Criaturas fantásticas
-- Efectos mágicos vistosos
-- Paletas ricas y variadas
+* Arquitectura monumental 
+* Criaturas fantásticas 
+* Efectos mágicos vistosos 
+* Paletas ricas y variadas
 
 **Ideal para**: RPGs de fantasía, MMOs, juegos de aventura épica
 
@@ -490,10 +497,10 @@ Fantasía clásica con dragones, magia, castillos y héroes. Colores saturados, 
 Mundos después del colapso civilizatorio. Ruinas, vegetación salvaje reclamando ciudades, estética de supervivencia.
 
 **Características clave:**
-- Paletas desaturadas, terrosas
-- Diseños desgastados y oxidados
-- Contraste entre ruinas humanas y naturaleza
-- Sensación de soledad y escala
+* Paletas desaturadas, terrosas 
+* Diseños desgastados y oxidados 
+* Contraste entre ruinas humanas y naturaleza 
+* Sensación de soledad y escala
 
 **Ideal para**: Juegos de supervivencia, shooters, aventuras post-apocalípticas
 
@@ -508,10 +515,10 @@ Mundos después del colapso civilizatorio. Ruinas, vegetación salvaje reclamand
 Mezcla de elementos orgánicos y mecánicos. Tecnología que parece viva o biología que parece artificial.
 
 **Características clave:**
-- Texturas que combinan carne, metal y circuitos
-- Diseños inquietantes y únicos
-- Paletas de colores inusuales (verdes, morados, rojos orgánicos)
-- Inspiración en H.R. Giger y arte biomecánico
+* Texturas que combinan carne, metal y circuitos 
+* Diseños inquietantes y únicos 
+* Paletas de colores inusuales (verdes, morados, rojos orgánicos)
+* Inspiración en H.R. Giger y arte biomecánico
 
 **Ideal para**: Ciencia ficción oscura, horror sci-fi, juegos alien
 
@@ -526,10 +533,10 @@ Mezcla de elementos orgánicos y mecánicos. Tecnología que parece viva o biolo
 Estética de los años 20-40 aplicada al futuro. Geometría elegante, simetría, opulencia visual.
 
 **Características clave:**
-- Líneas geométricas elegantes
-- Paletas doradas, negras, blancas
-- Arquitectura grandiosa y simétrica
-- Optimismo retro sobre el futuro
+* Líneas geométricas elegantes 
+* Paletas doradas, negras, blancas 
+* Arquitectura grandiosa y simétrica 
+* Optimismo retro sobre el futuro
 
 **Ideal para**: Juegos de época alternativos, aventuras retrofuturistas
 
@@ -544,10 +551,10 @@ Estética de los años 20-40 aplicada al futuro. Geometría elegante, simetría,
 Sucio, caótico, anti-establishment. Texturas degradadas, collage visual, estética DIY.
 
 **Características clave:**
-- Texturas sucias y desgastadas
-- Tipografías agresivas y caóticas
-- Paletas oscuras con acentos brillantes
-- Sensación de contracultura
+* Texturas sucias y desgastadas 
+* Tipografías agresivas y caóticas 
+* Paletas oscuras con acentos brillantes 
+* Sensación de contracultura
 
 **Ideal para**: Juegos de skate, títulos rebeldes, experiencias punk
 
@@ -562,10 +569,10 @@ Sucio, caótico, anti-establishment. Texturas degradadas, collage visual, estét
 Colores pastel suaves, estética cute japonesa, diseños adorables y amigables.
 
 **Características clave:**
-- Paletas de rosas, azules, amarillos suaves
-- Diseños redondeados y "monos"
-- Ausencia de elementos amenazantes
-- Sensación de confort y ternura
+* Paletas de rosas, azules, amarillos suaves 
+* Diseños redondeados y "monos"
+* Ausencia de elementos amenazantes 
+* Sensación de confort y ternura
 
 **Ideal para**: Juegos casuales, títulos para público joven, experiencias relajantes
 
@@ -580,10 +587,10 @@ Colores pastel suaves, estética cute japonesa, diseños adorables y amigables.
 Mundos realistas con elementos fantásticos integrados naturalmente. La magia como parte de lo ordinario.
 
 **Características clave:**
-- Base realista con toques fantásticos
-- Integración sutil de lo sobrenatural
-- Paletas naturales con acentos mágicos
-- Sensación de maravilla en lo cotidiano
+* Base realista con toques fantásticos 
+* Integración sutil de lo sobrenatural 
+* Paletas naturales con acentos mágicos 
+* Sensación de maravilla en lo cotidiano
 
 **Ideal para**: RPGs narrativos, aventuras contemplativas, juegos indie artísticos
 
