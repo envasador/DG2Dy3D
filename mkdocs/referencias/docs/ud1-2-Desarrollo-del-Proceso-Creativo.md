@@ -165,19 +165,23 @@ En el mundo real, las personas vienen en todas las formas, tamaños, colores y e
 #### **Estrategias concretas**
 
 **1. Edúcate**
+
 * Aprende sobre identidades de género más allá del binario
 * Estudia ejemplos positivos: ¿Qué juegos lo están haciendo bien y por qué?
 
 **2. Trabaja en equipo diverso**
+
 * Diferentes perspectivas enriquecen el proceso creativo
 * El feedback de personas con experiencias variadas es invaluable
 
 **3. Diseña con inclusión en mente**
+
 * Ofrece opciones de personalización de personajes
 * Crea historias que reflejen diversas experiencias
 * Evita hacer del género un chiste o un estereotipo
 
 **4. Revisa constantemente**
+
 * ¿Estoy cayendo en estereotipos sin darme cuenta?
 * ¿Hay balance en los roles que asigno?
 * ¿Mis personajes diversos son igual de desarrollados que los protagonistas?
