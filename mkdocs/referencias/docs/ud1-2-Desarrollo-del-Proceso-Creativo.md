@@ -600,7 +600,7 @@ Mundos realistas con elementos fantásticos integrados naturalmente. La magia co
 
 ---
 
-### **Elegir tu estilo: la decisión final**
+## **2.5 Elegir tu estilo: la decisión final**
 
 Con tantas opciones, ¿cómo decides? Hazte estas preguntas:
 
@@ -624,7 +624,7 @@ Los mejores juegos a menudo no siguen un solo estilo puro. Mezclan elementos:
 
 No tengas miedo de experimentar. Las reglas están para conocerlas y luego romperlas creativamente.
 
-### **Consistencia vs. variedad**
+## **2.6 Consistencia vs. variedad**
 
 Una vez elegido tu estilo:
 
