@@ -12,7 +12,7 @@
       
       
       <link rel="icon" href="../assets/sello-rafael-alberti-imago-blanco.svg">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.22">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.23">
     
     
       
@@ -350,75 +350,81 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#3-que-es-el-hud" class="md-nav__link">
+  <a href="#3-el-hud-en-videojuegos-definicion-y-funcion" class="md-nav__link">
     <span class="md-ellipsis">
-      3. ¿Qué es el HUD?
+      3. El HUD en videojuegos: definición y función
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#31-tipos-de-hud" class="md-nav__link">
-    <span class="md-ellipsis">
-      3.1 Tipos de HUD
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3.1 Tipos de HUD">
+    <nav class="md-nav" aria-label="3. El HUD en videojuegos: definición y función">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#311-interfaz-de-usuario-grafica-gui" class="md-nav__link">
+  <a href="#taxonomia-de-interfaces-en-videojuegos" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.1 Interfaz de Usuario Gráfica (GUI)
+      Taxonomía de interfaces en videojuegos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Taxonomía de interfaces en videojuegos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gui-interfaz-grafica-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      GUI (Interfaz Gráfica de Usuario)
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#312-interfaz-diegetica" class="md-nav__link">
+  <a href="#interfaz-diegetica" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.2 Interfaz Diegética
+      Interfaz Diegética
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#313-interfaz-no-diegetica" class="md-nav__link">
+  <a href="#interfaz-no-diegetica" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.3 Interfaz No Diegética
+      Interfaz No Diegética
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#314-interfaz-de-realidad-mixta" class="md-nav__link">
+  <a href="#interfaz-de-realidad-mixta" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.4 Interfaz de Realidad Mixta
+      Interfaz de Realidad Mixta
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#315-interfaz-de-voz-y-audio" class="md-nav__link">
+  <a href="#interfaz-de-audio" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.5 Interfaz de Voz y Audio
+      Interfaz de Audio
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#316-interfaz-haptica-o-de-retroalimentacion-tactil" class="md-nav__link">
+  <a href="#interfaz-haptica" class="md-nav__link">
     <span class="md-ellipsis">
-      3.1.6 Interfaz Háptica o de Retroalimentación Táctil
+      Interfaz Háptica
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -450,138 +456,84 @@
 <li><a href="../ud3-1/">1. Introducción al diseño UI UX para videojuegos.</a></li>
 <li><a href="../ud3-2/">2. Leyes de UX aplicadas a videojuegos</a></li>
 <li><a href="./">3. ¿Qué es el HUD? tipos de HUD</a></li>
+<li><a href="../ud3-4/">4. Guía de diseño</a></li>
 </ul>
 <hr />
-<h1 id="3-que-es-el-hud">3. ¿Qué es el HUD?</h1>
-<p>El <strong>HUD</strong> (Head-Up Display), o <strong>visualización cabeza-arriba</strong>, es un componente crucial en los videojuegos que proporciona información esencial al jugador sin interrumpir la experiencia de juego. Se presenta generalmente en forma de iconos, números y mapas que indican diversos estados del juego y del personaje, como:</p>
+<h1 id="3-el-hud-en-videojuegos-definicion-y-funcion">3. El HUD en videojuegos: definición y función</h1>
+<p>El <strong>HUD</strong> (Head-Up Display) constituye el sistema de información contextual que comunica el estado del juego al jugador sin interrumpir la experiencia interactiva. Este componente presenta datos críticos mediante elementos visuales superpuestos o integrados que informan sobre:</p>
 <ul>
-<li><strong>Salud</strong> del personaje</li>
-<li><strong>Munición</strong> disponible</li>
-<li><strong>Objetos</strong> en uso</li>
-<li><strong>Ubicación</strong> dentro del mapa</li>
-<li><strong>Tiempo restante</strong> para completar un nivel</li>
-<li><strong>Puntuación</strong> acumulada</li>
+<li><strong>Estado vital</strong> del avatar</li>
+<li><strong>Recursos disponibles</strong> (munición, energía, consumibles)</li>
+<li><strong>Inventario activo</strong></li>
+<li><strong>Orientación espacial</strong> (minimapa, brújula)</li>
+<li><strong>Parámetros temporales</strong> (límites de misión, contadores)</li>
+<li><strong>Métricas de progreso</strong> (puntuación, objetivos)</li>
 </ul>
-<p>Los HUDs son también conocidos como interfaz de usuario (UI, por sus siglas en inglés) y han evolucionado significativamente a lo largo del tiempo, adaptándose a diferentes géneros de videojuegos. Por ejemplo, en los juegos de disparos en primera persona (FPS), el HUD típicamente muestra el arma actual, la cantidad de munición restante y otros elementos vitales como un radar o puntos de vida[1][2][3].</p>
-<p>La implementación del HUD varía entre juegos. En títulos competitivos, se busca mostrar información crítica sin saturar la pantalla, mientras que en juegos más narrativos o de un solo jugador, se puede optar por ocultar el HUD durante momentos clave para aumentar la inmersión[3][6]. Además, la forma en que se presenta la información puede influir en la jugabilidad; por ejemplo, algunos juegos integran elementos del HUD directamente en el entorno del juego para mantener una experiencia más fluida y realista[5][6].</p>
+<p>Aunque frecuentemente se utiliza como sinónimo de UI (User Interface), el HUD representa específicamente la capa de información persistente durante el gameplay activo. Su diseño ha evolucionado desde implementaciones maximalistas que saturaban la pantalla hasta aproximaciones minimalistas que priorizan la inmersión.</p>
+<p>La filosofía de diseño varía según el contexto: los títulos competitivos optimizan para legibilidad instantánea de datos tácticos, mientras que las experiencias narrativas pueden ocultar o minimizar el HUD durante secuencias cinemáticas para preservar la atmósfera. La tendencia contemporánea integra elementos informativos en el entorno diegético, difuminando la frontera entre interfaz y mundo de juego.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHn_SsVBYAc?si=mQDAPNZteRgyAw5t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Citas:
-- <a href="https://www.geekno.com/glosario/hud">1 https://www.geekno.com/glosario/hud</a>
-- <a href="https://www.devuego.es/gamerdic/termino/hud/">2 https://www.devuego.es/gamerdic/termino/hud/</a>
-- <a href="https://es.eloking.com/glossary/general/hud">3 https://es.eloking.com/glossary/general/hud</a>
-- <a href="https://www.youtube.com/watch?v=aHn_SsVBYAc">4 https://www.youtube.com/watch?v=aHn_SsVBYAc</a>
-- <a href="https://www.youtube.com/watch?v=v0amXdb5zWo">5 https://www.youtube.com/watch?v=v0amXdb5zWo</a>
-- <a href="https://es.wikipedia.org/wiki/HUD_(videojuegos)">6 https://es.wikipedia.org/wiki/HUD_(videojuegos)</a></p>
-<h1 id="31-tipos-de-hud">3.1 Tipos de HUD</h1>
-<h3 id="311-interfaz-de-usuario-grafica-gui">3.1.1 <strong>Interfaz de Usuario Gráfica (GUI)</strong></h3>
-<ul>
-<li><strong>Definición</strong>: La GUI es la interfaz visual superpuesta en pantalla, que incluye menús, HUD (Heads-Up Display) y otros elementos visuales que proporcionan información directa al jugador sin estar integrados en el mundo del juego.</li>
-<li><strong>Ejemplo</strong>: <em>Fortnite</em> (Epic Games)</li>
-<li><strong>Enlace</strong>: <a href="https://www.epicgames.com/fortnite">Fortnite</a></li>
-<li>
-<p><strong>Descripción</strong>: En <em>Fortnite</em>, la GUI incluye elementos como la salud, el mapa y el inventario. La interfaz es clara y directa, ayudando a los jugadores a tener acceso a información esencial sin perder de vista la acción del juego.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: La interfaz es intuitiva y fácil de entender, ideal para jugadores de todos los niveles.</li>
-<li><strong>UI/UX</strong>: Optimizada para reducir la curva de aprendizaje, permitiendo a los jugadores concentrarse en la acción.</li>
-<li><strong>Accesibilidad</strong>: Incluye opciones de personalización en color, tamaño y disposición, lo que mejora la experiencia de jugadores con discapacidades visuales o daltónicas.</li>
-</ul>
-</li>
-</ul>
 <hr />
-<h3 id="312-interfaz-diegetica">3.1.2 <strong>Interfaz Diegética</strong></h3>
-<ul>
-<li><strong>Definición</strong>: Esta interfaz se integra dentro del mundo del juego y es visible tanto para el jugador como para el personaje. La información se presenta en objetos o dispositivos dentro del entorno del personaje, como una brújula o indicadores en su visor.</li>
-<li><strong>Ejemplo</strong>: <em>Dead Space</em> (Electronic Arts)</li>
-<li><strong>Enlace</strong>: <a href="https://www.ea.com/games/dead-space">Dead Space</a></li>
-<li>
-<p><strong>Descripción</strong>: En <em>Dead Space</em>, la barra de salud y otros elementos están integrados en el traje del protagonista, aumentando la inmersión sin superponer un HUD tradicional.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: Aporta una experiencia más inmersiva, aunque puede requerir un diseño claro para que la información sea accesible.</li>
-<li><strong>UI/UX</strong>: Logra que la interfaz se sienta natural dentro del universo del juego, aumentando la inmersión.</li>
-<li><strong>Accesibilidad</strong>: Puede necesitar alternativas visuales o sonoras para asegurar que toda la información sea accesible a usuarios con limitaciones visuales o auditivas.</li>
-</ul>
-</li>
-</ul>
+<h2 id="taxonomia-de-interfaces-en-videojuegos">Taxonomía de interfaces en videojuegos</h2>
+<h3 id="gui-interfaz-grafica-de-usuario">GUI (Interfaz Gráfica de Usuario)</h3>
+<p><strong>Definición</strong>: Capa visual superpuesta que proporciona información mediante elementos no integrados en el espacio diegético del juego.</p>
+<p><strong>Caso de estudio</strong>: <em>Mario Kart 8 Deluxe</em> (Nintendo)<br />
+<strong>Enlace</strong>: <a href="https://www.nintendo.com/es-es/Juegos/Nintendo-Switch-juegos/Mario-Kart-8-Deluxe-1173281.html">Mario Kart 8 Deluxe</a></p>
+<p>El racing de Nintendo implementa una GUI arquetípica del género: posición actual, minimapa de circuito, indicador de objetos y cronómetro ocupan las esquinas de la pantalla sin obstruir el espacio central donde se desarrolla la acción a alta velocidad. La iconografía colorista y el tamaño generoso de los elementos garantizan lectura instantánea incluso durante el caos de las carreras multijugador.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Arquitectura informativa jerárquica que permite lectura instantánea de estados críticos durante situaciones de alta velocidad
+- <strong>UI/UX</strong>: Curva de aprendizaje reducida mediante iconografía universal y convenciones consolidadas del género racing
+- <strong>Accesibilidad</strong>: Alto contraste cromático y tamaño de elementos pensado para todo tipo de jugadores, desde niños hasta adultos</p>
 <hr />
-<h3 id="313-interfaz-no-diegetica">3.1.3 <strong>Interfaz No Diegética</strong></h3>
-<ul>
-<li><strong>Definición</strong>: Esta interfaz no forma parte del mundo del juego y solo es visible para el jugador. Generalmente incluye menús, indicadores y otros elementos visuales que no afectan al personaje dentro de la narrativa del juego.</li>
-<li><strong>Ejemplo</strong>: <em>The Witcher 3: Wild Hunt</em> (CD Projekt Red)</li>
-<li><strong>Enlace</strong>: <a href="https://thewitcher.com/en/witcher3">The Witcher 3</a></li>
-<li>
-<p><strong>Descripción</strong>: En <em>The Witcher 3</em>, la interfaz incluye menús y HUD no diegéticos que permiten gestionar el inventario, habilidades y misiones sin interrumpir la experiencia visual del juego.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: Permite un acceso fácil y directo a información y opciones sin sobrecargar la pantalla de juego.</li>
-<li><strong>UI/UX</strong>: Menos inmersiva que la interfaz diegética, pero ayuda a que el jugador controle el progreso sin distracciones.</li>
-<li><strong>Accesibilidad</strong>: Ofrece opciones de personalización en texto y colores, adaptándose a las necesidades de los jugadores.</li>
-</ul>
-</li>
-</ul>
+<h3 id="interfaz-diegetica">Interfaz Diegética</h3>
+<p><strong>Definición</strong>: Sistema informativo integrado en el universo narrativo del juego, visible para personaje y jugador simultáneamente.</p>
+<p><strong>Caso de estudio</strong>: <em>Silent Hill 2</em> (Konami)<br />
+<strong>Enlace</strong>: <a href="https://www.konami.com/games/silenthill/">Silent Hill 2</a></p>
+<p>El survival horror de Team Silent integra los elementos informativos en objetos del mundo: la radio portátil que emite estática al aproximarse criaturas, el mapa manuscrito que el protagonista consulta físicamente, la linterna cuyo cono de luz define literalmente el campo visual. La barra de salud, aunque técnicamente no diegética, se presenta con estética minimalista que no rompe la atmósfera opresiva.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Requiere interpretación activa de señales ambientales, aumentando tensión y compromiso cognitivo
+- <strong>UI/UX</strong>: Maximiza inmersión al hacer que el jugador "lea" el mundo como lo haría el protagonista
+- <strong>Accesibilidad</strong>: La ambigüedad intencional puede generar barreras para usuarios que requieren información explícita</p>
 <hr />
-<h3 id="314-interfaz-de-realidad-mixta">3.1.4 <strong>Interfaz de Realidad Mixta</strong></h3>
-<ul>
-<li><strong>Definición</strong>: Esta interfaz combina elementos diegéticos y no diegéticos. Parte de la información está en la pantalla como HUD, mientras que otra está integrada en el mundo del juego, logrando un equilibrio entre inmersión y funcionalidad.</li>
-<li><strong>Ejemplo</strong>: <em>Horizon Zero Dawn</em> (Guerrilla Games)</li>
-<li><strong>Enlace</strong>: <a href="https://www.playstation.com/en-us/games/horizon-zero-dawn/">Horizon Zero Dawn</a></li>
-<li>
-<p><strong>Descripción</strong>: En <em>Horizon Zero Dawn</em>, algunos indicadores, como salud y munición, se muestran en el HUD, mientras que el rastreador en el visor del personaje está integrado en el entorno de juego, aumentando la inmersión.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: Permite un acceso rápido a la información clave sin romper la inmersión en el mundo del juego.</li>
-<li><strong>UI/UX</strong>: Aporta un balance ideal entre inmersión y claridad, adaptándose al contexto de cada situación.</li>
-<li><strong>Accesibilidad</strong>: Necesita un diseño visual claro y opciones de personalización para garantizar que todos los jugadores puedan acceder a la información.</li>
-</ul>
-</li>
-</ul>
+<h3 id="interfaz-no-diegetica">Interfaz No Diegética</h3>
+<p><strong>Definición</strong>: Elementos informativos externos al mundo narrativo, visibles exclusivamente para el jugador.</p>
+<p><strong>Caso de estudio</strong>: <em>Blasphemous</em> (The Game Kitchen)<br />
+<strong>Enlace</strong>: <a href="https://thegamekitchen.com/blasphemous/">Blasphemous</a></p>
+<p>El metroidvania español presenta una interfaz gótica que refleja su estética barroca: barra de salud (Fervor), medidor de lágrimas (Flask), contador de culpa y rosario ocupan la zona superior con ornamentación que dialoga con el arte del juego sin formar parte del mundo narrativo. Los menús de inventario, habilidades y mapa despliegan interfaces detalladas que pausan la acción completamente.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Separación clara entre exploración/combate y gestión de sistemas, facilitando concentración en cada contexto
+- <strong>UI/UX</strong>: El diseño gráfico de la interfaz refuerza la identidad visual sin pretender integrarse diegéticamente
+- <strong>Accesibilidad</strong>: Flexibilidad para implementar opciones de contraste y tamaño sin comprometer coherencia artística</p>
 <hr />
-<h3 id="315-interfaz-de-voz-y-audio">3.1.5 <strong>Interfaz de Voz y Audio</strong></h3>
-<ul>
-<li><strong>Definición</strong>: Esta interfaz utiliza comandos de voz o audio como retroalimentación para transmitir información al jugador, permitiendo la interacción sin necesidad de elementos visuales.</li>
-<li><strong>Ejemplo</strong>: <em>Among Us</em> (Innersloth)</li>
-<li><strong>Enlace</strong>: <a href="https://www.innersloth.com/games/among-us/">Among Us</a></li>
-<li>
-<p><strong>Descripción</strong>: En <em>Among Us</em>, la comunicación por voz y el sonido de los eventos juegan un rol fundamental, ya que la estrategia del juego depende de detectar y comunicarse sobre las acciones de otros jugadores.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: Ideal en juegos donde el audio y la comunicación son claves para la estrategia.</li>
-<li><strong>UI/UX</strong>: Mejora la experiencia permitiendo interpretar el entorno sin necesidad de interfaz visual adicional.</li>
-<li><strong>Accesibilidad</strong>: Utiliza subtítulos y ajustes de audio, lo cual es útil para jugadores con discapacidades auditivas o visuales.</li>
-</ul>
-</li>
-</ul>
+<h3 id="interfaz-de-realidad-mixta">Interfaz de Realidad Mixta</h3>
+<p><strong>Definición</strong>: Aproximación híbrida que combina elementos diegéticos y no diegéticos según requerimientos contextuales.</p>
+<p><strong>Caso de estudio</strong>: <em>The Legend of Zelda: Breath of the Wild</em> (Nintendo)<br />
+<strong>Enlace</strong>: <a href="https://www.zelda.com/breath-of-the-wild/">Breath of the Wild</a></p>
+<p>Nintendo implementa un sistema minimalista donde corazones, resistencia y temperatura se presentan como GUI tradicional, mientras que el Sheikah Slate funciona como dispositivo diegético que el jugador "consulta" para acceder a mapa, inventario y habilidades. Durante exploración libre, el HUD puede ocultarse casi completamente, apareciendo solo cuando resulta contextualmente necesario.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Distribución contextual que prioriza contemplación del entorno sobre saturación informativa
+- <strong>UI/UX</strong>: Balance entre inmersión exploratoria y acceso eficiente a sistemas de gestión
+- <strong>Accesibilidad</strong>: El modo "Pro HUD" puede dificultar orientación para usuarios que requieren referentes constantes</p>
 <hr />
-<h3 id="316-interfaz-haptica-o-de-retroalimentacion-tactil">3.1.6 <strong>Interfaz Háptica o de Retroalimentación Táctil</strong></h3>
-<ul>
-<li><strong>Definición</strong>: Utiliza retroalimentación táctil (vibraciones o respuestas hápticas) en el controlador para proporcionar sensaciones físicas en sincronía con la acción en el juego, ayudando a interpretar eventos sin elementos visuales.</li>
-<li><strong>Ejemplo</strong>: <em>The Last of Us Part II</em> (Naughty Dog)</li>
-<li><strong>Enlace</strong>: <a href="https://www.playstation.com/en-us/games/the-last-of-us-part-ii/">The Last of Us Part II</a></li>
-<li>
-<p><strong>Descripción</strong>: <em>The Last of Us Part II</em> aprovecha la retroalimentación háptica para que los jugadores sientan la intensidad de cada acción, como disparos o pasos, reforzando la inmersión en el juego.</p>
-</li>
-<li>
-<p><strong>Características</strong>:</p>
-<ul>
-<li><strong>Usabilidad</strong>: Brinda un nivel sensorial adicional que guía al jugador en situaciones de alta intensidad.</li>
-<li><strong>UI/UX</strong>: Aumenta la inmersión, transmitiendo la experiencia del juego a través de vibraciones físicas.</li>
-<li><strong>Accesibilidad</strong>: Útil para jugadores con limitaciones auditivas, aunque puede no ser ideal para quienes tienen limitaciones táctiles.</li>
-</ul>
-</li>
-</ul>
+<h3 id="interfaz-de-audio">Interfaz de Audio</h3>
+<p><strong>Definición</strong>: Sistema que utiliza señales sonoras y comunicación verbal como canal informativo primario o complementario.</p>
+<p><strong>Caso de estudio</strong>: <em>Resident Evil 2 Remake</em> (Capcom)<br />
+<strong>Enlace</strong>: <a href="https://www.residentevil.com/re2/">Resident Evil 2</a></p>
+<p>El survival horror de Capcom utiliza el audio espacial como sistema de alerta temprana: pasos arrastrándose, gruñidos distantes y el característico sonido de pisadas del Tyrant Mr. X comunican proximidad y dirección de amenazas. La música adaptativa señala estados de peligro, mientras que sonidos distintivos indican munición baja o salud crítica sin necesidad de mirar el HUD.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Libera atención visual para navegación y combate al proporcionar información de amenazas mediante canal auditivo
+- <strong>UI/UX</strong>: Genera tensión atmosférica convirtiendo el sonido en mecánica de supervivencia
+- <strong>Accesibilidad</strong>: Requiere subtítulos e indicadores visuales direccionales para usuarios con limitaciones auditivas</p>
 <hr />
+<h3 id="interfaz-haptica">Interfaz Háptica</h3>
+<p><strong>Definición</strong>: Sistema que comunica información mediante retroalimentación táctil diferenciada en el controlador.</p>
+<p><strong>Caso de estudio</strong>: <em>The Legend of Zelda: Tears of the Kingdom</em> (Nintendo)<br />
+<strong>Enlace</strong>: <a href="https://www.zelda.com/tears-of-the-kingdom/">Tears of the Kingdom</a></p>
+<p>Nintendo implementa retroalimentación háptica diferenciada: vibraciones suaves al escalar superficies, pulsos al extraer objetos con Ultrahand, sensación de impacto al golpear materiales distintos, y feedback táctil al tensar el arco. El controlador comunica texturas y resistencias que complementan la información visual sin duplicarla.</p>
+<p><strong>Análisis de diseño</strong>:
+- <strong>Usabilidad</strong>: Canal informativo adicional que enriquece comprensión de interacciones sin demandar atención consciente
+- <strong>UI/UX</strong>: Refuerza la fisicalidad de las mecánicas mediante traducción kinestésica de acciones
+- <strong>Accesibilidad</strong>: Beneficia a usuarios con limitaciones visuales al proporcionar confirmación táctil de acciones, aunque resulta inaccesible para quienes usan dispositivos alternativos sin vibración</p>
 
 
 
