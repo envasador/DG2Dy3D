@@ -5,7 +5,10 @@ site_dir: ../../docs/referencias
 # Page tree
 nav:
   - Inicio: index.md
-  - UT1: ud1.md
+  - Concept Art:  ud1.md
+  - Diseño:  ud2.md
+  - Interfaz:  ud3.md
+  - Arte 3D:  ud5.md
 
 extra:
   social:

@@ -4,8 +4,6 @@ hide:
 ---
 
 # Unidad 3. Diseño UI/UX en interfaces para videojuegos
-![](assets/referencias.jpg)
-
 ## Tabla de contenido
 
 * [1. Introducción al diseño UI UX para videojuegos.](ud3-1.md)
